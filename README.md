@@ -2,7 +2,9 @@
 <img width="570" height="302" alt="image" src="https://github.com/user-attachments/assets/6b423203-ed56-4bae-b4ee-b2549b307dd2" />
 
 qb-Inventory remake. 
+
 Preview! https://www.youtube.com/watch?v=IHxwTEDIurI
+
 Buy Here! https://baked-scripts.tebex.io/
 
 ✨ Key Features
