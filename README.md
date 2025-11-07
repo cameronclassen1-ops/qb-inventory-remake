@@ -25,21 +25,6 @@ Dependencies: qb-target • qb-core • ox_lib • progressbar
 
 🎯 Extras: hotbar (1–6), item quality bars, vehicle storage, stashes, shops, evidence, ox_lib integration
 
-📸 Recommended Media
-
-🖼️ Screenshots:
-• Main inventory UI (custom colors)
-• Weapon attachments & crafting benches
-• Backpack & storage system
-• Repair bench & draw animations
-• Hotbar and vehicle trunk
-
-🎬 Video Ideas:
-• Full feature walkthrough
-• UI customization demo
-• Weapon animation comparison
-• Crafting & progression showcase
-
 🎬 Preview:
 https://youtu.be/IHxwTEDIurI
 
